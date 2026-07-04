@@ -27,8 +27,8 @@ header_pages:
 
 author:
   name   : "Sung Hwang"
-  #avatar : "/assets/images/bio-photo.jpg"
-  bio    : "TBA"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Hello World"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
