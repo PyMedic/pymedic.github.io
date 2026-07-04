@@ -1,0 +1,41 @@
+title: My Personal Website
+email: 
+description: >-
+  My Software Development Portfolio & Blog
+github_username: username
+minimal_mistakes_skin: default
+
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Navigation
+header_pages:
+  - _pages/about.md
+  - _pages/projects.md
+  - _pages/resume.md
+
+author:
+  name   : "Sung Hwang"
+  #avatar : "/assets/images/bio-photo.jpg"
+  bio    : "TBA"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"

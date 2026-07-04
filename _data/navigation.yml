@@ -1,0 +1,12 @@
+main:
+  - title: "About"
+    url: /about/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Blog"
+    url: /year-archive/
+
+  - title: "Resume"
+    url: /resume/
