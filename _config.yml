@@ -5,6 +5,7 @@ description: >-
 github_username: username
 minimal_mistakes_skin: default
 
+# Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
@@ -18,12 +19,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-# Navigation
-header_pages:
-  - _pages/about.md
-  - _pages/projects.md
-  - _pages/resume.md
 
 author:
   name   : "Sung Hwang"
