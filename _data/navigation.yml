@@ -7,3 +7,21 @@ main:
 
   - title: "Blog"
     url: /categories/
+
+blog_sidebar:
+  - title: "Python"
+    children:
+      - title: "General Python"
+        url: /categories/#python
+      - title: "Django"
+        url: /categories/#django
+
+  - title: "Go"
+    url: /categories/#go
+
+  - title: "Game Development"
+    children:
+      - title: "Godot"
+        url: /categories/#godot
+      - title: "Pyxel"
+        url: /categories/#pyxel
