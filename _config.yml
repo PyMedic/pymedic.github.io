@@ -65,3 +65,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "blog_sidebar"
