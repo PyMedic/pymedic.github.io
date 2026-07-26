@@ -13,13 +13,15 @@ blog_sidebar:
     children:
     - title: "Python"
       children:
-        - title: "General Python"
+        - title: "General"
           url: /categories/#python
         - title: "Django"
           url: /categories/#django
 
     - title: "Go"
-      url: /categories/#go
+      children:
+        - title: General
+          url: /categories/#go
 
     - title: "Game Development"
       children:
