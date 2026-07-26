@@ -10,7 +10,7 @@ main:
 
 blog_sidebar:
   - title: "Blog Topics"
-  children:
+    children:
     - title: "Python"
       children:
         - title: "General Python"
